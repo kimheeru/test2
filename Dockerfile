@@ -1,2 +1,2 @@
 FROM nginx
-ADD Index.html /usr/share/ngnix/index.html
+ADD index.html /usr/share/nginx/html/index.html
